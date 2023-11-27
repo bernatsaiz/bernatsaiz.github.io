@@ -1,0 +1,4 @@
+title = 'Bernat Saiz'
+baseURL = 'https://bernatsaiz.com/'
+languageCode = 'en'
+theme = 'bernat-theme'

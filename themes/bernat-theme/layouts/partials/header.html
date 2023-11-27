@@ -1,0 +1,12 @@
+<!-- {{ partial "menu.html" (dict "menuID" "main" "page" .) }} -->
+
+
+<section class="navbar-section">
+    <a href="{{ "" | relURL }}" class="navbar-brand">{{ site.Title }}</a>
+</section>
+<section class="navbar-section">
+    <a href="{{ "videos" | relURL }}" class="btn btn-link">Videos</a>
+    <a href="{{ "articles" | relURL }}" class="btn btn-link">Articles</a>
+    <a href="{{ "designs" | relURL }}" class="btn btn-link">Designs</a>
+    <a href="{{ "projects" | relURL }}" class="btn btn-link">Projects</a>
+</section>

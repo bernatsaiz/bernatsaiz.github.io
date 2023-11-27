@@ -1,0 +1,6 @@
+.DS_Store
+
+# Hugo output
+public/
+resources/
+.hugo_build.lock

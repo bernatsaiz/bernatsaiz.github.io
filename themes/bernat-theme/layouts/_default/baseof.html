@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="{{ or site.Language.LanguageCode site.Language.Lang }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
+<head>
+  {{ partial "head.html" . }}
+</head>
+<body>
+  <header class="navbar" style="padding: 1rem;">
+    {{ partial "header.html" . }}
+  </header>
+  <main>
+    <div class="container grid-md">
+      <div class="columns">
+        <div class="column col-9 col-mx-auto">
+          {{ block "main" . }}{{ end }}
+        </div>
+      </div>
+    </div>
+  </main>
+  <footer style="padding: 2rem 1rem;">
+    {{ partial "footer.html" . }}
+  </footer>
+</body>
+</html>
