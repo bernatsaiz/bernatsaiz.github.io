@@ -4,8 +4,8 @@ date = 2023-11-27T21:10:45+01:00
 draft = false
 subtitle = 'The Catalan capitals have around 20% of foreigners, while the national average does not reach 12%'
 publication_date = '2023-08-20'
-thumbnail = 'https://images.unsplash.com/photo-1454923634634-bd1614719a7b?q=80&w=3570&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-main_image = 'https://images.unsplash.com/photo-1454923634634-bd1614719a7b?q=80&w=3570&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+thumbnail = 'https://images.unsplash.com/photo-1454923634634-bd1614719a7b'
+main_image = 'https://images.unsplash.com/photo-1454923634634-bd1614719a7b'
 company = ''
 +++
 
@@ -20,7 +20,6 @@ Apart from provincial capitals, among all the cities with more than 100,000 inha
 <iframe title="Porcentaje de extranjeros residentes en las capitales de província (2022)" aria-label="Mapa" id="datawrapper-chart-DAN5o" src="https://datawrapper.dwcdn.net/DAN5o/2/" scrolling="no" frameborder="0" style="width: 0px; border: none; min-width: 100% !important; height: 570px;" height="520" data-external="1"></iframe>
 
 {{< /rawhtml >}}
-
 
 The distribution of the foreign population in Spain is due to multiple factors. Apart from historical issues, the accumulation of high percentages of foreigners in certain areas of the country "coincides with the areas of most economic activity", according to Carles Bertran, director of the Centro de Información para Trabajadores Extranjeros (CITE) of Comisiones Obreras (CCOO). In addition, when migrant groups settle in a place, they act as a point of attraction for their compatriots.
 

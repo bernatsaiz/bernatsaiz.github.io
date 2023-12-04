@@ -6,5 +6,5 @@ subtitle = ''
 publication_date = ''
 thumbnail = ''
 video_file = ''
-original_link = ''
+original_link = '/'
 +++

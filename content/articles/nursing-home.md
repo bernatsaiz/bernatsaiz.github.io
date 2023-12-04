@@ -4,8 +4,8 @@ date = 2023-11-27T21:04:11+01:00
 draft = false
 subtitle = 'The Mossèn Vidal i Aunós center has received complaints other years about the poor condition of the electrical installation and received a sanctioning file during the pandemic'
 publication_date = '2023-08-21'
-thumbnail = 'https://images.unsplash.com/photo-1592568585443-f5e89857c9d4?q=80&w=3570&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-main_image = 'https://images.unsplash.com/photo-1592568585443-f5e89857c9d4?q=80&w=3570&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+thumbnail = 'https://images.unsplash.com/photo-1592568585443-f5e89857c9d4'
+main_image = 'https://images.unsplash.com/photo-1592568585443-f5e89857c9d4'
 company = 'El País'
 +++
 

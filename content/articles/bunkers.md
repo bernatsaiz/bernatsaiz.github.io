@@ -4,8 +4,8 @@ date = 2023-11-27T21:00:17+01:00
 draft = false
 subtitle = 'Despite the measures taken by the City Council, visitors to the Carmel bunkers gather around the fence after closing and in some cases jump into the residents’ homes to gain access'
 publication_date = '2023-08-30'
-thumbnail = 'https://unsplash.com/photos/people-standing-and-looking-on-buildings-during-daytime-uBflZCoXSt8'
-main_image = 'https://unsplash.com/photos/people-standing-and-looking-on-buildings-during-daytime-uBflZCoXSt8'
+thumbnail = 'https://images.unsplash.com/photo-1556213262-dff92123f3ef'
+main_image = 'https://images.unsplash.com/photo-1556213262-dff92123f3ef'
 company = 'El País'
 +++
 

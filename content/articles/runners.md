@@ -4,8 +4,8 @@ date = 2023-07-03T20:21:44+01:00
 draft = false
 subtitle = 'The initiative turns a training session into a party to “socialize and meet new people”'
 publication_date = '2023-07-03'
-thumbnail = 'https://images.unsplash.com/photo-1590333748338-d629e4564ad9?q=80&w=3649&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
-main_image = 'https://images.unsplash.com/photo-1590333748338-d629e4564ad9?q=80&w=3649&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+thumbnail = 'https://images.unsplash.com/photo-1590333748338-d629e4564ad9'
+main_image = 'https://images.unsplash.com/photo-1590333748338-d629e4564ad9'
 company = 'El País'
 +++
 

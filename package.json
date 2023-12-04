@@ -1,0 +1,21 @@
+{
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/bernatsaiz/bernatsaiz.github.io"
+	},
+	"devDependencies": {
+		"@tailwindcss/typography": "^0.5.9",
+		"autoprefixer": "^10.4.14",
+		"postcss": "^8.4.23",
+		"postcss-cli": "^10.1.0",
+		"prettier": "3.1.0",
+		"prettier-plugin-tailwindcss": "0.5.7",
+		"tailwindcss": "^3.3.2"
+	},
+	"name": "bernatsaiz-github-pages",
+	"version": "0.1.0",
+	"dependencies": {
+		"tailwind-scrollbar-hide": "^1.1.7"
+	}
+}
