@@ -13,7 +13,7 @@ También he escrito en El País y La Vanguardia.
 
 Escríbeme: [bernatsaiz@gmail.com](mailto:bernatsaiz@gmail.com)
 
-![](portfolio/les-mentides-alimenten-lodi/images/1.png)
+![](/portfolio/les-mentides-alimenten-lodi/images/1.png)
 
 #### Les mentides alimenten l'odi {#mentides-alimenten-odi}
 
@@ -21,7 +21,7 @@ Diseño web, adaptación de +100 gráficos y diseño de visualizaciones de datos
 
 [Más información]({{< ref "les-mentides-alimenten-lodi" >}})
 
-![](portfolio/les-mentides-amenacen-la-salut/images/1.png)
+![](/portfolio/les-mentides-amenacen-la-salut/images/1.png)
 
 #### Les mentides amenacen la salut {#mentides-amenacen-salut}
 
@@ -29,7 +29,7 @@ Infografías y visualizaciones de datos para desmentir desinformación sobre COV
 
 [Más información]({{< ref "les-mentides-amenacen-la-salut" >}})
 
-![](portfolio/periodismo-de-datos/images/0.png)
+![](/portfolio/periodismo-de-datos/images/0.png)
 
 #### Periodismo de datos {#periodismo-datos}
 
@@ -37,13 +37,13 @@ Redacción de artículos de datos para Forbes España y Forbes Women. A partir d
 
 [Selección de artículos]({{< ref "periodismo-de-datos" >}})
 
-![](portfolio/diseño-de-formatos-para-redes/images/1.png)
+![](/portfolio/diseño-de-formatos-para-redes/images/1.png)
 
 #### Diseño de formatos para redes {#diseño-formatos-redes}
 
 Creación de formatos y diseño de contenido para redes sociales en Verificat, adaptando la identidad visual del proyecto para comunicar verificaciones de manera accesible y atractiva en temas como política, migración, salud y cambio climático.
 
-![](portfolio/videos-para-redes/images/0.png)
+![](/portfolio/videos-para-redes/images/0.png)
 
 #### Vídeos para redes {#videos-redes}
 
@@ -51,7 +51,7 @@ Guion, grabación, edición y producción de vídeo para las redes de Verificat.
 
 [Selección de vídeos]({{< ref "videos-para-redes" >}})
 
-![](portfolio/formatos-interactivos/images/0.png)
+![](/portfolio/formatos-interactivos/images/0.png)
 
 #### Formatos interactivos {#formatos-interactivos}
 
@@ -59,7 +59,7 @@ Propuesta de formato interactivo para los contenidos de actualidad política del
 
 [Ver proyecto]({{< ref "formatos-interactivos" >}})
 
-![](portfolio/the-future-of-media-evolution-revolution-disruption/images/1.png)
+![](/portfolio/the-future-of-media-evolution-revolution-disruption/images/1.png)
 
 #### The future of media: evolution, revolution, disruption {#tedx}
 

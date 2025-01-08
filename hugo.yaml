@@ -49,3 +49,15 @@ params:
     flexsearch:
       # index page by: content | summary | heading | title
       index: content
+
+defaultContentLanguage: es
+languages:
+  es:
+    languageName: Español
+    weight: 1
+  ca:
+    languageName: Català
+    weight: 2
+  en:
+    languageName: English
+    weight: 3
