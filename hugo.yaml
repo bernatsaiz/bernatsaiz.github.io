@@ -50,14 +50,14 @@ params:
       # index page by: content | summary | heading | title
       index: content
 
-defaultContentLanguage: es
+defaultContentLanguage: en
 languages:
-  es:
-    languageName: Español
-    weight: 1
-  ca:
-    languageName: Català
-    weight: 2
   en:
     languageName: English
+    weight: 1
+  es:
+    languageName: Español
+    weight: 2
+  ca:
+    languageName: Català
     weight: 3

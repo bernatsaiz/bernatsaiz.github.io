@@ -7,19 +7,23 @@ toc: false
 
 # Bernat Saiz
 
-Journalist and designer. I have [developed formats]({{< relref "#social-formats-design" >}}), [created data visualizations and infographics]({{< relref "#lies-feed-hate" >}}) for [Verificat](https://www.verificat.cat/) and published data articles in magazines such as [Forbes Spain and Forbes Woman]({{< relref "#data-journalism" >}}).
+Journalist and designer. I have [developed social media formats]({{< relref "#social-formats-design" >}}), [created data visualizations and infographics]({{< relref "#lies-feed-hate" >}}) for [Verificat](https://www.verificat.cat/), the first catalan fact-checking platform, and published data articles in magazines such as [Forbes Spain and Forbes Woman]({{< relref "#data-journalism" >}}).
 
 I have also written for El País and La Vanguardia.
 
 Email me: [bernatsaiz@gmail.com](mailto:bernatsaiz@gmail.com)
 
+<br><br><br>
+
 ![](/portfolio/les-mentides-alimenten-lodi/images/1.png)
 
-#### Lies Feed Hate {#lies-feed-hate}
+#### "Lies fuel hate" {#lies-fuel-hate}
 
-Web design, adaptation of +100 graphics, and design of data visualizations and infographics for the "Lies Feed Hate" project by Verificat, focused on debunking misinformation about migration.
+Web design, adaptation of +100 graphics, and design of data visualizations and infographics for "Les mentides alimenten l'odi" ("Lies fuel hate", in english) by Verificat, focused on debunking misinformation about migration.
 
 [More information]({{< ref "les-mentides-alimenten-lodi" >}})
+
+<br><br><br>
 
 ![](/portfolio/les-mentides-amenacen-la-salut/images/1.png)
 
@@ -29,6 +33,8 @@ Infographics and data visualizations to debunk misinformation about COVID-19, va
 
 [More information]({{< ref "les-mentides-amenacen-la-salut" >}})
 
+<br><br><br>
+
 ![](/portfolio/periodismo-de-datos/images/0.png)
 
 #### Data Journalism {#data-journalism}
@@ -37,11 +43,15 @@ Writing data articles for Forbes Spain and Forbes Women. Conducting research and
 
 [Selection of articles]({{< ref "periodismo-de-datos" >}})
 
+<br><br><br>
+
 ![](/portfolio/diseño-de-formatos-para-redes/images/1.png)
 
 #### Design of Formats for Social Media {#social-formats-design}
 
 Creating formats and designing content for social media at Verificat, adapting the project's visual identity to communicate verifications in an accessible and attractive way on topics like politics, migration, health, and climate change.
+
+<br><br><br>
 
 ![](/portfolio/videos-para-redes/images/0.png)
 
@@ -51,6 +61,8 @@ Scriptwriting, recording, editing, and video production for Verificat's social m
 
 [Selection of videos]({{< ref "videos-para-redes" >}})
 
+<br><br><br>
+
 ![](/portfolio/formatos-interactivos/images/0.png)
 
 #### Interactive Formats {#interactive-formats}
@@ -58,6 +70,8 @@ Scriptwriting, recording, editing, and video production for Verificat's social m
 Proposal for an interactive format for the political news content of Diari de Barcelona as part of the media's relaunch.
 
 [View project]({{< ref "formatos-interactivos" >}})
+
+<br><br><br>
 
 ![](/portfolio/the-future-of-media-evolution-revolution-disruption/images/1.png)
 
@@ -67,6 +81,10 @@ TEDxTalk on the future of the information industry in the context of the current
 
 [Watch talk]({{< ref "the-future-of-media-evolution-revolution-disruption" >}})
 
+<br><br><br>
+
 #### Contact {#contact}
 
 [bernatsaiz@gmail.com](mailto:bernatsaiz@gmail.com)
+
+<br><br><br>

@@ -13,6 +13,8 @@ També he escrit a El País i La Vanguardia.
 
 Escriu-me: [bernatsaiz@gmail.com](mailto:bernatsaiz@gmail.com)
 
+<br><br><br>
+
 ![](/portfolio/les-mentides-alimenten-lodi/images/1.png)
 
 #### Les mentides alimenten l'odi {#mentides-alimenten-odi}
@@ -20,6 +22,8 @@ Escriu-me: [bernatsaiz@gmail.com](mailto:bernatsaiz@gmail.com)
 Disseny web, adaptació de +100 gràfics i disseny de visualitzacions de dades i infografies per al projecte "Les mentides alimenten l'odi" de Verificat, centrat en desmentir desinformació sobre migració.
 
 [Més informació]({{< ref "les-mentides-alimenten-lodi" >}})
+
+<br><br><br>
 
 ![](/portfolio/les-mentides-amenacen-la-salut/images/1.png)
 
@@ -29,6 +33,8 @@ Infografies i visualitzacions de dades per desmentir desinformació sobre COVID-
 
 [Més informació]({{< ref "les-mentides-amenacen-la-salut" >}})
 
+<br><br><br>
+
 ![](/portfolio/periodismo-de-datos/images/0.png)
 
 #### Periodisme de dades {#periodisme-dades}
@@ -37,11 +43,15 @@ Redacció d'articles de dades per a Forbes España i Forbes Women. A partir de t
 
 [Selecció d'articles]({{< ref "periodismo-de-datos" >}})
 
+<br><br><br>
+
 ![](/portfolio/diseño-de-formatos-para-redes/images/1.png)
 
 #### Disseny de formats per a xarxes {#diseny-formats-xarxes}
 
 Creació de formats i disseny de contingut per a xarxes socials a Verificat, adaptant la identitat visual del projecte per comunicar verificacions de manera accessible i atractiva en temes com política, migració, salut i canvi climàtic.
+
+<br><br><br>
 
 ![](/portfolio/videos-para-redes/images/0.png)
 
@@ -51,6 +61,8 @@ Guió, gravació, edició i producció de vídeo per a les xarxes de Verificat. 
 
 [Selecció de vídeos]({{< ref "videos-para-redes" >}})
 
+<br><br><br>
+
 ![](/portfolio/formatos-interactivos/images/0.png)
 
 #### Formats interactius {#formats-interactius}
@@ -58,6 +70,8 @@ Guió, gravació, edició i producció de vídeo per a les xarxes de Verificat. 
 Proposta de format interactiu per als continguts d'actualitat política del Diari de Barcelona en el marc de la refundació del mitjà.
 
 [Veure projecte]({{< ref "formatos-interactivos" >}})
+
+<br><br><br>
 
 ![](/portfolio/the-future-of-media-evolution-revolution-disruption/images/1.png)
 
@@ -67,6 +81,10 @@ TEDxTalk sobre el futur de la indústria de la informació en el context de l'ac
 
 [Veure xerrada]({{< ref "the-future-of-media-evolution-revolution-disruption" >}})
 
+<br><br><br>
+
 #### Contacte {#contacte}
 
 [bernatsaiz@gmail.com](mailto:bernatsaiz@gmail.com)
+
+<br><br><br>
