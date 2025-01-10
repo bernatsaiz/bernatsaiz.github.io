@@ -15,7 +15,7 @@ Email me: [bernatsaiz@gmail.com](mailto:bernatsaiz@gmail.com)
 
 <br><br><br>
 
-![](/portfolio/les-mentides-alimenten-lodi/images/1.png)
+![](/en/les-mentides-alimenten-lodi/images/1.png)
 
 #### "Lies fuel hate" {#lies-fuel-hate}
 
@@ -25,7 +25,7 @@ Web design, adaptation of +100 graphics, and design of data visualizations and i
 
 <br><br><br>
 
-![](/portfolio/les-mentides-amenacen-la-salut/images/1.png)
+![](/en/les-mentides-amenacen-la-salut/images/1.png)
 
 #### Lies Threaten Health {#lies-threaten-health}
 
@@ -35,7 +35,7 @@ Infographics and data visualizations to debunk misinformation about COVID-19, va
 
 <br><br><br>
 
-![](/portfolio/periodismo-de-datos/images/0.png)
+![](/en/periodismo-de-datos/images/0.png)
 
 #### Data Journalism {#data-journalism}
 
@@ -45,7 +45,7 @@ Writing data articles for Forbes Spain and Forbes Women. Conducting research and
 
 <br><br><br>
 
-![](/portfolio/diseño-de-formatos-para-redes/images/1.png)
+![](/en/diseño-de-formatos-para-redes/images/1.png)
 
 #### Design of Formats for Social Media {#social-formats-design}
 
@@ -53,7 +53,7 @@ Creating formats and designing content for social media at Verificat, adapting t
 
 <br><br><br>
 
-![](/portfolio/videos-para-redes/images/0.png)
+![](/en/videos-para-redes/images/0.png)
 
 #### Videos for Social Media {#videos-social}
 
@@ -63,7 +63,7 @@ Scriptwriting, recording, editing, and video production for Verificat's social m
 
 <br><br><br>
 
-![](/portfolio/formatos-interactivos/images/0.png)
+![](/en/formatos-interactivos/images/0.png)
 
 #### Interactive Formats {#interactive-formats}
 
@@ -73,7 +73,7 @@ Proposal for an interactive format for the political news content of Diari de Ba
 
 <br><br><br>
 
-![](/portfolio/the-future-of-media-evolution-revolution-disruption/images/1.png)
+![](/en/the-future-of-media-evolution-revolution-disruption/images/1.png)
 
 #### The Future of Media: Evolution, Revolution, Disruption {#tedx}
 

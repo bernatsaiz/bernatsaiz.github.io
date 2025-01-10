@@ -51,6 +51,7 @@ params:
       index: content
 
 defaultContentLanguage: en
+defaultContentLanguageInSubdir: true
 languages:
   en:
     languageName: English

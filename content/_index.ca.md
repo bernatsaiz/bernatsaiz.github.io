@@ -15,7 +15,7 @@ Escriu-me: [bernatsaiz@gmail.com](mailto:bernatsaiz@gmail.com)
 
 <br><br><br>
 
-![](/portfolio/les-mentides-alimenten-lodi/images/1.png)
+![](/en/les-mentides-alimenten-lodi/images/1.png)
 
 #### Les mentides alimenten l'odi {#mentides-alimenten-odi}
 
@@ -25,7 +25,7 @@ Disseny web, adaptació de +100 gràfics i disseny de visualitzacions de dades i
 
 <br><br><br>
 
-![](/portfolio/les-mentides-amenacen-la-salut/images/1.png)
+![](/en/les-mentides-amenacen-la-salut/images/1.png)
 
 #### Les mentides amenacen la salut {#mentides-amenacen-salut}
 
@@ -35,7 +35,7 @@ Infografies i visualitzacions de dades per desmentir desinformació sobre COVID-
 
 <br><br><br>
 
-![](/portfolio/periodismo-de-datos/images/0.png)
+![](/en/periodismo-de-datos/images/0.png)
 
 #### Periodisme de dades {#periodisme-dades}
 
@@ -45,7 +45,7 @@ Redacció d'articles de dades per a Forbes España i Forbes Women. A partir de t
 
 <br><br><br>
 
-![](/portfolio/diseño-de-formatos-para-redes/images/1.png)
+![](/en/diseño-de-formatos-para-redes/images/1.png)
 
 #### Disseny de formats per a xarxes {#diseny-formats-xarxes}
 
@@ -53,7 +53,7 @@ Creació de formats i disseny de contingut per a xarxes socials a Verificat, ada
 
 <br><br><br>
 
-![](/portfolio/videos-para-redes/images/0.png)
+![](/en/videos-para-redes/images/0.png)
 
 #### Vídeos per a xarxes {#videos-xarxes}
 
@@ -63,7 +63,7 @@ Guió, gravació, edició i producció de vídeo per a les xarxes de Verificat. 
 
 <br><br><br>
 
-![](/portfolio/formatos-interactivos/images/0.png)
+![](/en/formatos-interactivos/images/0.png)
 
 #### Formats interactius {#formats-interactius}
 
@@ -73,7 +73,7 @@ Proposta de format interactiu per als continguts d'actualitat política del Diar
 
 <br><br><br>
 
-![](/portfolio/the-future-of-media-evolution-revolution-disruption/images/1.png)
+![](/en/the-future-of-media-evolution-revolution-disruption/images/1.png)
 
 #### The future of media: evolution, revolution, disruption {#tedx}
 
