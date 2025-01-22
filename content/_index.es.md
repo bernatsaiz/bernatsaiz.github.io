@@ -7,7 +7,7 @@ toc: false
 
 # Bernat Saiz
 
-Periodista y diseñador. He [desarrollado formatos]({{< relref "#diseño-formatos-redes" >}}), [creado visualizaciones de datos e infografías]({{< relref "#mentides-alimenten-odi" >}}) para [Verificat](https://www.verificat.cat/) y he publicado artículos de datos en las revistas [Forbes España y Forbes Woman]({{< relref "#periodismo-datos" >}}).
+Periodista de datos y diseñador. He [desarrollado formatos]({{< relref "#diseño-formatos-redes" >}}), [creado visualizaciones de datos e infografías]({{< relref "#mentides-alimenten-odi" >}}) para [Verificat](https://www.verificat.cat/) y he publicado artículos de datos en las revistas [Forbes España y Forbes Woman]({{< relref "#periodismo-datos" >}}).
 
 También he escrito en El País y La Vanguardia.
 
