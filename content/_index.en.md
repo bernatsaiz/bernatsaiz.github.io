@@ -21,7 +21,7 @@ Email me: [bernatsaiz@gmail.com](mailto:bernatsaiz@gmail.com)
 
 ### Data journalism for Forbes {#data-journalism}
 
-![](/en/periodismo-de-datos/images/0.png)
+{{< carousel images="/en/periodismo-de-datos/images/0.png,/en/periodismo-de-datos/images/1.png" >}}
 
 Writing data articles for Forbes Spain and Forbes Women. Conducting research and data analysis, creating and designing graphics, and formatting the final article based on proposed topics. [Learn more]({{< ref "periodismo-de-datos" >}})
 
