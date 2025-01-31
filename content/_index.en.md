@@ -47,7 +47,7 @@ Data visualization and infographic design for "Les mentides alimenten l'odi" ("L
 
 {{< carousel images="/en/diseño-de-formatos-para-redes/images/social-media-1.png,/en/diseño-de-formatos-para-redes/images/social-media-2.png,/en/diseño-de-formatos-para-redes/images/social-media-3.png" >}}
 
-Creating formats and designing content for Verificat's social media account, adapting the project's visual identity to communicate verifications in an accessible and attractive way on topics like politics, migration, health, and climate change. Learn more.
+Creating formats and designing content for Verificat's social media account, adapting the project's visual identity to communicate verifications in an accessible and attractive way on topics like politics, migration, health, and climate change.
 
 <br><br><br>
 
