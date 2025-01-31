@@ -1,4 +1,4 @@
-{{ $unique_id := substr (md5 (printf "%s-%s" .Inner (.Get "images"))) 0 16 }}
+{{ $unique_id := substr (md5 (.Get "images")) 0 16 }}
 
 <div id="carousel-{{ $unique_id }}" class="relative w-full" data-carousel="static">
   <!-- Carousel wrapper -->
