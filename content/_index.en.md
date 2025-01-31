@@ -37,7 +37,7 @@ Infographics and data visualizations to debunk misinformation about COVID-19, va
 
 ### Dataviz and web design for Verificat {#lies-fuel-hate}
 
-{{< carousel images="/en/les-mentides-alimenten-lodi/images/dataviz-1.png,/en/les-mentides-alimenten-lodi/images/dataviz-2.png,/en/les-mentides-alimenten-lodi/images/dataviz-2.png" >}}
+{{< carousel images="/en/les-mentides-alimenten-lodi/images/dataviz-1.png,/en/les-mentides-alimenten-lodi/images/dataviz-2.png,/en/les-mentides-alimenten-lodi/images/dataviz-3.png" >}}
 
 Data visualization and infographic design for "Les mentides alimenten l'odi" ("Lies Fuel Hate" in English), a repository of data aimed at combating rumors about migration processes. This project was developed by Verificat.cat, the first fact-checking platform in Catalonia. [Learn more.]({{< ref "les-mentides-alimenten-lodi" >}})
 
