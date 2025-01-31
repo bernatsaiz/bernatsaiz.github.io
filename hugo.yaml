@@ -57,8 +57,10 @@ languages:
     languageName: English
     weight: 1
   es:
+    disabled: true
     languageName: Español
     weight: 2
   ca:
+    disabled: true
     languageName: Català
     weight: 3
