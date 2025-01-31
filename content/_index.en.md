@@ -21,7 +21,7 @@ Email me: [bernatsaiz@gmail.com](mailto:bernatsaiz@gmail.com)
 
 ### Data journalism for Forbes {#data-journalism}
 
-{{< carousel images="/en/periodismo-de-datos/images/0.png,/en/periodismo-de-datos/images/1.png" >}}
+![](/content/periodismo-de-datos/images/0.png)
 
 Writing data articles for Forbes Spain and Forbes Women. Conducting research and data analysis, creating and designing graphics, and formatting the final article based on proposed topics. [Learn more]({{< ref "periodismo-de-datos" >}})
 
@@ -31,6 +31,8 @@ Writing data articles for Forbes Spain and Forbes Women. Conducting research and
 
 ![](/en/les-mentides-amenacen-la-salut/images/1.png)
 
+{{< carousel images="content/les-mentides-amenacen-la-salut/images/infographics-1.png,content/les-mentides-amenacen-la-salut/images/infographics-2.png,content/les-mentides-amenacen-la-salut/images/infographics-3.png" >}}
+
 Infographics and data visualizations to debunk misinformation about COVID-19, vaccines, and health during the pandemic. Design and adaptation to responsive formats with AI2HTML. The infographics were part of the "Les mentides amenacen la salut" ("Lies threaten health" in English) project by Verificat, with some published in El Periódico. [Learn more.]({{< ref "les-mentides-amenacen-la-salut" >}})
 
 <br><br><br>
@@ -39,6 +41,8 @@ Infographics and data visualizations to debunk misinformation about COVID-19, va
 
 ![](/en/les-mentides-alimenten-lodi/images/1.png)
 
+{{< carousel images="content/les-mentides-alimenten-lodi/images/dataviz-1.png,content/les-mentides-alimenten-lodi/images/dataviz-2.png,content/les-mentides-alimenten-lodi/images/dataviz-2.png" >}}
+
 Data visualization and infographic design for "Les mentides alimenten l'odi" ("Lies Fuel Hate" in English), a repository of data aimed at combating rumors about migration processes. This project was developed by Verificat.cat, the first fact-checking platform in Catalonia. [Learn more.]({{< ref "les-mentides-alimenten-lodi" >}})
 
 <br><br><br>
@@ -46,6 +50,8 @@ Data visualization and infographic design for "Les mentides alimenten l'odi" ("L
 ### Social media design and formats for Verificat{#social-formats-design}
 
 ![](/en/diseño-de-formatos-para-redes/images/1.png)
+
+{{< carousel images="content/diseño-de-formatos-para-redes/images/social-media-1.png,content/diseño-de-formatos-para-redes/images/social-media-2.png,content/diseño-de-formatos-para-redes/images/social-media-3.png" >}}
 
 Creating formats and designing content for Verificat's social media account, adapting the project's visual identity to communicate verifications in an accessible and attractive way on topics like politics, migration, health, and climate change. Learn more.
 
