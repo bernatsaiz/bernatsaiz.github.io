@@ -18,9 +18,6 @@ markup:
   highlight:
     noClasses: false
 
-# menu:
-#   main:
-
 params:
   navbar:
     displayTitle: true
@@ -44,11 +41,6 @@ params:
 
   search:
     enable: false
-    type: flexsearch
-
-    flexsearch:
-      # index page by: content | summary | heading | title
-      index: content
 
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: true
