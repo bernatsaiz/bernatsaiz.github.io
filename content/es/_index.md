@@ -15,7 +15,7 @@ Escríbeme: [bernatsaiz@gmail.com](mailto:bernatsaiz@gmail.com)
 
 <br><br><br>
 
-![](/en/les-mentides-alimenten-lodi/images/1.png)
+![](/en/lies-fuel-hate-verificat/images/1.png)
 
 #### Les mentides alimenten l'odi {#mentides-alimenten-odi}
 
@@ -25,7 +25,7 @@ Diseño web, adaptación de +100 gráficos y diseño de visualizaciones de datos
 
 <br><br><br>
 
-![](/en/les-mentides-amenacen-la-salut/images/1.png)
+![](/en/lies-threaten-health-verificat/images/1.png)
 
 #### Les mentides amenacen la salut {#mentides-amenacen-salut}
 
@@ -35,7 +35,7 @@ Infografías y visualizaciones de datos para desmentir desinformación sobre COV
 
 <br><br><br>
 
-![](/en/periodismo-de-datos/images/0.png)
+![](/en/data-journalism-for-forbes/images/0.png)
 
 #### Periodismo de datos {#periodismo-datos}
 
@@ -53,7 +53,7 @@ Creación de formatos y diseño de contenido para redes sociales en Verificat, a
 
 <br><br><br>
 
-![](/en/videos-para-redes/images/0.png)
+![](/en/videos-for-social-media-verificat/images/0.png)
 
 #### Vídeos para redes {#videos-redes}
 
@@ -63,7 +63,7 @@ Guion, grabación, edición y producción de vídeo para las redes de Verificat.
 
 <br><br><br>
 
-![](/en/formatos-interactivos/images/0.png)
+![](/en/interactive-formats-for-the-barcelona-journal/images/0.png)
 
 #### Formatos interactivos {#formatos-interactivos}
 
@@ -73,7 +73,7 @@ Propuesta de formato interactivo para los contenidos de actualidad política del
 
 <br><br><br>
 
-![](/en/the-future-of-media-evolution-revolution-disruption/images/1.png)
+![](/en/the-future-of-media-evolution-revolution-disruption-tedx/images/1.png)
 
 #### The future of media: evolution, revolution, disruption {#tedx}
 

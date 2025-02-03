@@ -1,5 +1,5 @@
 ---
-slug: el-futur-dels-mitjans-evolucio-revolucio-disrupcio-tedx
+slug: the-future-of-media-evolution-revolution-disruption-tedx
 title: "The future of media: evolution, revolution, disruption"
 data: 2024-11-19T23:49:51+01:00
 esborrany: false
