@@ -1,5 +1,8 @@
 ---
-title: "Interactive Formats"
+slug: interactive-formats-for-the-barcelona-journal
+aliases:
+- /en/formatos-interactivos
+title: "Interactive formats"
 date: 2024-11-19T23:49:51+01:00
 draft: false
 toc: false

@@ -1,5 +1,6 @@
 ---
-title: "Videos"
+slug: videos-para-redes-verificat
+title: "Videos para redes"
 date: 2024-11-19T23:49:51+01:00
 draft: false
 toc: false

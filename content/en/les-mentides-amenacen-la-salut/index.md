@@ -1,5 +1,8 @@
 ---
-title: "Lies Threaten Health"
+slug: lies-threaten-health-verificat
+aliases:
+- /en/les-mentides-amenacen-la-salut
+title: "Lies threaten health"
 date: 2024-11-19T23:49:51+01:00
 draft: false
 toc: false

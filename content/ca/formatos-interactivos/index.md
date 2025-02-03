@@ -1,4 +1,5 @@
 ---
+slug: formats-interactius-pel-diari-de-barcelona
 title: "Formats interactius"
 date: 2024-11-19T23:49:51+01:00
 draft: false

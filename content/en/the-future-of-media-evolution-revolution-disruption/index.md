@@ -1,4 +1,7 @@
 ---
+slug: the-future-of-media-evolution-revolution-disruption-tedx
+aliases:
+- /en/the-future-of-media-evolution-revolution-disruption
 title: "The future of media: evolution, revolution, disruption"
 date: 2024-11-19T23:49:51+01:00
 draft: false

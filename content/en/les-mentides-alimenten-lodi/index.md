@@ -1,5 +1,8 @@
 ---
-title: "Lies Fuel Hate"
+slug: lies-fuel-hate-verificat
+aliases:
+- /en/les-mentides-alimenten-lodi
+title: "Lies fuel hate"
 date: 2024-11-19T23:49:51+01:00
 draft: false
 toc: false
@@ -11,7 +14,7 @@ Web design, graphic layout, and infographic creation for the project "Les mentid
 
 The project can be visited at [verificat.cat/migracio](https://www.verificat.cat/migracio/). The initial website was launched in 2021, so it may have undergone changes.
 
-<div class="grid grid-cols-2 gap-4">
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4">
     <div>{{< figure src="images/1.png">}}</div>
     <div>{{< figure src="images/2.png">}}</div>
     <div>{{< figure src="images/3.png">}}</div>

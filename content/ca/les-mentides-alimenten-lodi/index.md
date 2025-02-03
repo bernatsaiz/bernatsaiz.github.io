@@ -1,4 +1,5 @@
 ---
+slug: les-mentides-alimenten-lodi-verificat
 title: "Les mentides alimenten l'odi"
 date: 2024-11-19T23:49:51+01:00
 draft: false
@@ -11,7 +12,7 @@ Disseny web, maquetació de gràfics i creació d'infografies per al projecte "L
 
 El projecte es pot visitar a [verificat.cat/migracio](https://www.verificat.cat/migracio/). La web inicial es va llançar el 2021, per la qual cosa pot haver sofert canvis.
 
-<div class="grid grid-cols-2 gap-4">
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4">
     <div>{{< figure src="images/1.png">}}</div>
     <div>{{< figure src="images/2.png">}}</div>
     <div>{{< figure src="images/3.png">}}</div>

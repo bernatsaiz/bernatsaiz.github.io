@@ -1,5 +1,6 @@
 ---
-title: "Les mentides alimenten l'odi"
+slug: las-mentiras-alimentan-el-odio-verificat
+title: "Las mentiras alimentan el odio"
 date: 2024-11-19T23:49:51+01:00
 draft: false
 toc: false
@@ -11,7 +12,7 @@ Diseño web, maquetación de gráficos y creación de infografías para el proye
 
 El proyecto se puede visitar en [verificat.cat/migracio](https://www.verificat.cat/migracio/). La web inicial se lanzó en 2021, por lo que puede haber sufrido cambios.
 
-<div class="grid grid-cols-2 gap-4">
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4">
     <div>{{< figure src="images/1.png">}}</div>
     <div>{{< figure src="images/2.png">}}</div>
     <div>{{< figure src="images/3.png">}}</div>

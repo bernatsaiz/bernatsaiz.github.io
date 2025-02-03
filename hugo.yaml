@@ -46,13 +46,14 @@ defaultContentLanguage: en
 defaultContentLanguageInSubdir: true
 languages:
   en:
+    contentDir: content/en
     languageName: English
     weight: 1
   es:
-    disabled: true
+    contentDir: content/es
     languageName: Español
     weight: 2
   ca:
-    disabled: true
+    contentDir: content/ca
     languageName: Català
     weight: 3

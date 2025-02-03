@@ -1,15 +1,16 @@
 ---
-title: "Periodisme de dades"
+slug: periodismo-de-datos-para-forbes
+title: "Periodismo de datos"
 date: 2024-11-19T23:49:51+01:00
 draft: false
 toc: false
 ---
 
-[<- Tornar]({{< ref "/" >}})
+[<- Volver]({{< ref "/" >}})
 
-Redacció d'articles de dades per a Forbes España i Forbes Women. A partir de temes proposats, realització de recerca i anàlisi de dades, creació i disseny de gràfics, i maquetació de l'article final. Els articles que es presenten a continuació són una selecció de tots els realitzats i l'empresa editora pot haver canviat elements per a la seva publicació.
+Redacción de artículos de datos para Forbes España y Forbes Women. A partir de temas propuestos, realización de investigación y análisis de datos, creación y diseño de gráficos, y maquetación del artículo final. Los artículos que se presentan a continuación son una selección de todos los realizados y la empresa editora puede haber cambiado elementos para su publicación.
 
-<div class="grid grid-cols-2 gap-4">
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4">
     <div>{{< figure src="images/1.png">}}</div>
     <div>{{< figure src="images/2.png">}}</div>
     <div>{{< figure src="images/3.png">}}</div>
