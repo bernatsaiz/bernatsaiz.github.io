@@ -1,0 +1,11 @@
+/* Make mobile menu on the very top to prevent flowbite's carousel from showing up */
+.sidebar-container {
+    z-index: 90;
+}
+.nav-container {
+    z-index: 91;
+}
+/* Hide search bar from mobile menu */
+.search-wrapper {
+    display: none;
+}
