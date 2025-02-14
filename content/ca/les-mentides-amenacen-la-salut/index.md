@@ -1,6 +1,6 @@
 ---
 slug: les-mentides-amenacen-la-salut-verificat
-title: "Infografies científiques per Verificat"
+title: "Infografies científiques per a Verificat"
 date: 2024-11-19T23:49:51+01:00
 draft: false
 toc: false
