@@ -1,6 +1,6 @@
 ---
 slug: videos-per-xarxes-verificat
-title: "Vídeos per a xarxes"
+title: "Vídeos per a les xarxes socials de Verificat"
 date: 2024-11-19T23:49:51+01:00
 draft: false
 toc: false
