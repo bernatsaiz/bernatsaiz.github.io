@@ -1,6 +1,6 @@
 ---
 slug: les-mentides-amenacen-la-salut-verificat
-title: "Les mentides amenacen la salut"
+title: "Infografies científiques per a Verificat"
 date: 2024-11-19T23:49:51+01:00
 draft: false
 toc: false
@@ -10,9 +10,7 @@ toc: false
 
 Infografies i visualitzacions de dades per desmentir desinformació sobre COVID-19, vacunes i salut durant la pandèmia amb textos d'Andrea Arnal, redactora de ciència. Continguts publicats en català i castellà.
 
-Les infografies formaven part del projecte de Verificat "Les mentides amenacen la salut" ("[Las mentiras amenazan la salud](https://www.verificat.cat/salut/es)" en català) i algunes d'elles es van publicar a El Periódico adaptades a format mòbil amb AI2HTML.
-
-Els continguts s'enllacen a pàgines arxivades per facilitar-ne la visualització.
+Les infografies formaven part del projecte de Verificat "[Les mentides amenacen la salut](https://www.verificat.cat/salut/)" i algunes d'elles es van publicar a El Periódico de Catalunya adaptades a format mòbil amb AI2HTML. Una de les infografies es va publicar al web de [National Geographic](https://www.nationalgeographic.com.es/ciencia/asi-funcionan-tests-antigenos_17808). 
 
 <div class="max-w-screen-lg mx-auto p-6">
     <h1 class="text-2xl font-bold mb-4">

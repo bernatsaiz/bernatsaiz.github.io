@@ -1,6 +1,6 @@
 ---
 slug: las-mentiras-alimentan-el-odio-verificat
-title: "Las mentiras alimentan el odio"
+title: "Visualización de datos y diseño web para Verificat"
 date: 2024-11-19T23:49:51+01:00
 draft: false
 toc: false

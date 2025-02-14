@@ -1,6 +1,6 @@
 ---
 slug: the-future-of-media-evolution-revolution-disruption-tedx
-title: "The future of media: evolution, revolution, disruption"
+title: "TEDxTalk - The future of media: evolution, revolution, disruption"
 date: 2024-11-19T23:49:51+01:00
 draft: false
 toc: false
