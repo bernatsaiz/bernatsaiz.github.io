@@ -11,7 +11,7 @@ toc: false
 
 # Bernat Saiz – Periodista de dades i dissenyador
 
-He [creat visualitzacions de dades]({{< relref "#visualitzacio-dades-disseny-web-verificat" >}}) i [infografies]({{< relref "#infografies-cientifiques-verificat" >}}) i [desenvolupat formats per a xarxes socials]({{< relref "#disseny-formats-xarxes-socials-verificat" >}}) per a [Verificat](https://www.verificat.cat/), la primera plataforma de verificació de fets de Catalunya. He publicat articles de dades en revistes com [Forbes Spain i Forbes Woman]({{< relref "#periodisme-dades-forbes" >}}).
+He [creat visualitzacions de dades]({{< relref "#visualitzacio-dades-disseny-web-verificat" >}}) i [infografies]({{< relref "#infografies-cientifiques-verificat" >}}), i he [desenvolupat formats per a xarxes socials]({{< relref "#disseny-formats-xarxes-socials-verificat" >}}) per a [Verificat](https://www.verificat.cat/), la primera plataforma de verificació de fets de Catalunya. He publicat articles de dades a [Forbes Spain i Forbes Woman]({{< relref "#periodisme-dades-forbes" >}}).
 
 També he escrit per a [El País](https://elpais.com/autor/bernat-saiz-pascual/) i [La Vanguardia](https://stories.lavanguardia.com/search?q=&author=Bernat+Saiz).
 
@@ -69,7 +69,7 @@ Guió, gravació, edició i producció de vídeos per a Instagram i TikTok de Ve
 
 ![](/en/interactive-formats-for-the-barcelona-journal/images/0.png)
 
-Proposta de format interactiu per al contingut de notícies polítiques del Diari de Barcelona com a part del rellançament del mitjà. [Més informació.]({{< ref "formats-interactius-per-al-diari-de-barcelona" >}})
+Proposta de format interactiu per al contingut de notícies polítiques del Diari de Barcelona com a part del rellançament del mitjà. [Més informació.]({{< ref "formatos-interactivos" >}})
 
 <br><br><br>
 
