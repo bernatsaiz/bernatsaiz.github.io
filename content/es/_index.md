@@ -5,86 +5,82 @@ draft: false
 toc: false
 ---
 
-# Bernat Saiz
+<br><br>
 
-Periodista de datos y diseñador. He [desarrollado formatos]({{< relref "#diseño-formatos-redes" >}}), [creado visualizaciones de datos e infografías]({{< relref "#mentides-alimenten-odi" >}}) para [Verificat](https://www.verificat.cat/) y he publicado artículos de datos en las revistas [Forbes España y Forbes Woman]({{< relref "#periodismo-datos" >}}).
+# 👨🏻‍💻
 
-También he escrito en El País y La Vanguardia.
+# Bernat Saiz – Periodista de datos y diseñador
 
-Escríbeme: [bernatsaiz@gmail.com](mailto:bernatsaiz@gmail.com)
+He [creado visualizaciones de datos e infografías]({{< relref "#lies-fuel-hate" >}}) y [desarrollado formatos para redes sociales]({{< relref "#social-formats-design" >}}) para [Verificat](https://www.verificat.cat/), la primera plataforma de verificación de hechos de Cataluña, y he publicado artículos de datos en revistas como [Forbes Spain y Forbes Women]({{< relref "#data-journalism" >}}).
 
-<br><br><br>
+También he escrito para [El País](https://elpais.com/autor/bernat-saiz-pascual/) y [La Vanguardia](https://stories.lavanguardia.com/search?q=&author=Bernat+Saiz).
 
-![](/en/lies-fuel-hate-verificat/images/1.png)
-
-#### Les mentides alimenten l'odi {#mentides-alimenten-odi}
-
-Diseño web, adaptación de +100 gráficos y diseño de visualizaciones de datos e infografías para el proyecto "Las mentiras alimentan el odio" de Verificat, centrado en desmentir desinformación sobre migración.
-
-[Más información]({{< ref "les-mentides-alimenten-lodi" >}})
+Contáctame: [bernatsaiz@gmail.com](mailto:bernatsaiz@gmail.com)
 
 <br><br><br>
 
-![](/en/lies-threaten-health-verificat/images/1.png)
-
-#### Les mentides amenacen la salut {#mentides-amenacen-salut}
-
-Infografías y visualizaciones de datos para desmentir desinformación sobre COVID-19, vacunas y salud durante la pandemia. Diseño y adaptación a formatos responsive con AI2HTML. Las infografías formaban parte del proyecto "Las mentiras amenazan la salud" de Verificat y algunas de ellas se publicaron en El Periódico.
-
-[Más información]({{< ref "les-mentides-amenacen-la-salut" >}})
-
-<br><br><br>
+### Periodismo de datos para Forbes {#data-journalism}
 
 ![](/en/data-journalism-for-forbes/images/0.png)
 
-#### Periodismo de datos {#periodismo-datos}
-
-Redacción de artículos de datos para Forbes España y Forbes Women. A partir de temas propuestos, realización de investigación y análisis de datos, creación y diseño de gráficos y maquetación del artículo final.
-
-[Selección de artículos]({{< ref "periodismo-de-datos" >}})
+Redacción de artículos de datos para Forbes Spain y Forbes Women. Investigación y análisis de datos, creación y diseño de gráficos, y maquetación del artículo final a partir de los temas propuestos. [Más información]({{< ref "periodismo-de-datos" >}})
 
 <br><br><br>
 
-![](/en/diseño-de-formatos-para-redes/images/1.png)
+### Infografías científicas para Verificat {#lies-threaten-health}
 
-#### Diseño de formatos para redes {#diseño-formatos-redes}
+<br>
 
-Creación de formatos y diseño de contenido para redes sociales en Verificat, adaptando la identidad visual del proyecto para comunicar verificaciones de manera accesible y atractiva en temas como política, migración, salud y cambio climático.
+{{< carousel images="/en/lies-threaten-health-verificat/images/infographics-1.png,/en/lies-threaten-health-verificat/images/infographics-2.png,/en/lies-threaten-health-verificat/images/infographics-3.png" >}}
+
+Infografías y visualizaciones de datos para desmentir la desinformación sobre la COVID-19, las vacunas y la salud durante la pandemia. Diseño y adaptación a formatos responsivos con AI2HTML. Las infografías formaban parte del proyecto "Las mentiras amenazan la salud" de Verificat, con algunas publicadas en El Periódico. [Más información.]({{< ref "les-mentides-amenacen-la-salut" >}})
 
 <br><br><br>
+
+### Visualización de datos y diseño web para Verificat {#lies-fuel-hate}
+
+<br>
+
+{{< carousel images="/en/lies-fuel-hate-verificat/images/dataviz-1.png,/en/lies-fuel-hate-verificat/images/dataviz-2.png,/en/lies-fuel-hate-verificat/images/dataviz-3.png" >}}
+
+Visualización de datos y diseño de infografías para "Las mentiras alimentan el odio", un repositorio de datos destinado a combatir los rumores sobre los procesos migratorios. Este proyecto fue desarrollado por Verificat.cat, la primera plataforma de verificación de hechos de Cataluña. [Más información.]({{< ref "les-mentides-alimenten-lodi" >}})
+
+<br><br><br>
+
+### Diseño y formatos para las redes sociales de Verificat {#social-formats-design}
+
+<br>
+
+{{< carousel images="/en/diseño-de-formatos-para-redes/images/social-media-1.png,/en/diseño-de-formatos-para-redes/images/social-media-2.png,/en/diseño-de-formatos-para-redes/images/social-media-3.png" >}}
+
+Creación de formatos y diseño de contenido para las redes sociales de Verificat, adaptando la identidad visual del proyecto para comunicar verificaciones de manera accesible y atractiva en temas como política, migración, salud y cambio climático.
+
+<br><br><br>
+
+### Vídeos cortos para Verificat {#videos-social}
 
 ![](/en/videos-for-social-media-verificat/images/0.png)
 
-#### Vídeos para redes {#videos-redes}
-
-Guion, grabación, edición y producción de vídeo para las redes de Verificat. Desarrollo de formatos creativos para compartir los contenidos publicados.
-
-[Selección de vídeos]({{< ref "videos-para-redes" >}})
+Guion, grabación, edición y producción de vídeos para Instagram y TikTok de Verificat. Desarrollo de formatos creativos para compartir contenido publicado. [Más información.]({{< ref "videos-para-redes" >}})
 
 <br><br><br>
+
+### Formatos interactivos para el Diari de Barcelona {#interactive-formats}
 
 ![](/en/interactive-formats-for-the-barcelona-journal/images/0.png)
 
-#### Formatos interactivos {#formatos-interactivos}
-
-Propuesta de formato interactivo para los contenidos de actualidad política del Diari de Barcelona en el marco de la refundación del medio.
-
-[Ver proyecto]({{< ref "formatos-interactivos" >}})
+Propuesta de formato interactivo para el contenido de noticias políticas del Diari de Barcelona como parte del relanzamiento del medio. [Más información.]({{< ref "formatos-interactivos" >}})
 
 <br><br><br>
+
+### TEDxTalk – The future of media: evolution, revolution, disruption {#tedx}
 
 ![](/en/the-future-of-media-evolution-revolution-disruption-tedx/images/1.png)
 
-#### The future of media: evolution, revolution, disruption {#tedx}
-
-TEDxTalk sobre el futuro de la industria de la información en el contexto de la actual crisis de los medios tradicionales, los desafíos que enfrentan los medios digitales para encontrar un modelo de negocio sostenible y la pérdida de confianza en el periodismo debido al auge de las noticias falsas.
-
-[Ver charla]({{< ref "the-future-of-media-evolution-revolution-disruption" >}})
+TEDxTalk sobre el futuro de la industria de la información en el contexto de la crisis actual de los medios tradicionales, los desafíos de los medios digitales para encontrar un modelo de negocio sostenible y la pérdida de confianza en el periodismo por el aumento de las noticias falsas. [Ver la charla.]({{< ref "the-future-of-media-evolution-revolution-disruption" >}})
 
 <br><br><br>
 
-#### Contacto {#contacto}
-
-[bernatsaiz@gmail.com](mailto:bernatsaiz@gmail.com)
+### Contáctame en [bernatsaiz@gmail.com](mailto:bernatsaiz@gmail.com) {#contact}
 
 <br><br><br>

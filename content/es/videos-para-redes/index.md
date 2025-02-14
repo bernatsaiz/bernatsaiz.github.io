@@ -1,6 +1,6 @@
 ---
 slug: videos-para-redes-verificat
-title: "Videos para redes"
+title: "Videos cortos para Verificat"
 date: 2024-11-19T23:49:51+01:00
 draft: false
 toc: false

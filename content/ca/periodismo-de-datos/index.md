@@ -1,6 +1,6 @@
 ---
 slug: periodisme-de-dades-per-forbes
-title: "Periodisme de dades"
+title: "Periodisme de dades per Forbes"
 date: 2024-11-19T23:49:51+01:00
 draft: false
 toc: false

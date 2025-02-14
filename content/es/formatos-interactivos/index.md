@@ -1,6 +1,6 @@
 ---
 slug: formatos-interactivos-para-el-diario-de-barcelona
-title: "Formatos interactivos"
+title: "Formatos interactivos para el Diari de Barcelona"
 date: 2024-11-19T23:49:51+01:00
 draft: false
 toc: false
