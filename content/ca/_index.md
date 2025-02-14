@@ -11,7 +11,7 @@ toc: false
 
 # Bernat Saiz – Periodista de dades i dissenyador
 
-He [creat visualitzacions de dades i infografies]({{< relref "#lies-fuel-hate" >}}) i [desenvolupat formats per a xarxes socials]({{< relref "#disseny-formats-xarxes-socials-verificat" >}}) per a [Verificat](https://www.verificat.cat/), la primera plataforma de verificació de fets de Catalunya. He publicat articles de dades en revistes com [Forbes Spain i Forbes Woman]({{< relref "#data-journalism" >}}).
+He [creat visualitzacions de dades]({{< relref "#visualitzacio-dades-disseny-web-verificat" >}}) i [infografies]({{< relref "#infografies-cientifiques-verificat" >}}) i [desenvolupat formats per a xarxes socials]({{< relref "#disseny-formats-xarxes-socials-verificat" >}}) per a [Verificat](https://www.verificat.cat/), la primera plataforma de verificació de fets de Catalunya. He publicat articles de dades en revistes com [Forbes Spain i Forbes Woman]({{< relref "#periodisme-dades-forbes" >}}).
 
 També he escrit per a [El País](https://elpais.com/autor/bernat-saiz-pascual/) i [La Vanguardia](https://stories.lavanguardia.com/search?q=&author=Bernat+Saiz).
 
@@ -19,7 +19,7 @@ Contacta'm: [bernatsaiz@gmail.com](mailto:bernatsaiz@gmail.com)
 
 <br><br><br>
 
-### Periodisme de dades per a Forbes {#data-journalism}
+### Periodisme de dades per a Forbes {#periodisme-dades-forbes}
 
 ![](/en/data-journalism-for-forbes/images/0.png)
 
@@ -27,7 +27,7 @@ Redacció d'articles de dades per a Forbes Spain i Forbes Women. Recerca i anàl
 
 <br><br><br>
 
-### Infografies científiques per a Verificat {#lies-threaten-health}
+### Infografies científiques per a Verificat {#infografies-cientifiques-verificat}
 
 <br>
 
@@ -37,7 +37,7 @@ Infografies i visualitzacions de dades per desmentir la desinformació sobre la 
 
 <br><br><br>
 
-### Visualització de dades i disseny web per a Verificat {#lies-fuel-hate}
+### Visualització de dades i disseny web per a Verificat {#visualitzacio-dades-disseny-web-verificat}
 
 <br>
 
@@ -57,7 +57,7 @@ Creació de formats i disseny de contingut per a les xarxes socials de Verificat
 
 <br><br><br>
 
-### Vídeos curts per a Verificat {#videos-social}
+### Vídeos per a les xarxes socials de Verificat {#videos-xarxes-socials-verificat}
 
 ![](/en/videos-for-social-media-verificat/images/0.png)
 
@@ -65,7 +65,7 @@ Guió, gravació, edició i producció de vídeos per a Instagram i TikTok de Ve
 
 <br><br><br>
 
-### Formats interactius per al Diari de Barcelona {#interactive-formats}
+### Formats interactius per al Diari de Barcelona {#formats-interactius-diari-de-barcelona}
 
 ![](/en/interactive-formats-for-the-barcelona-journal/images/0.png)
 
