@@ -11,7 +11,7 @@ toc: false
 
 # Bernat Saiz – Periodista de dades i dissenyador
 
-He [creat visualitzacions de dades i infografies]({{< relref "#lies-fuel-hate" >}}) i [desenvolupat formats per a xarxes socials]({{< relref "#social-formats-design" >}}) per a [Verificat](https://www.verificat.cat/), la primera plataforma de verificació de fets de Catalunya, i he publicat articles de dades en revistes com [Forbes Spain i Forbes Woman]({{< relref "#data-journalism" >}}).
+He [creat visualitzacions de dades i infografies]({{< relref "#lies-fuel-hate" >}}) i [desenvolupat formats per a xarxes socials]({{< relref "#social-formats-design" >}}) per a [Verificat](https://www.verificat.cat/), la primera plataforma de verificació de fets de Catalunya. He publicat articles de dades en revistes com [Forbes Spain i Forbes Woman]({{< relref "#data-journalism" >}}).
 
 També he escrit per a [El País](https://elpais.com/autor/bernat-saiz-pascual/) i [La Vanguardia](https://stories.lavanguardia.com/search?q=&author=Bernat+Saiz).
 
