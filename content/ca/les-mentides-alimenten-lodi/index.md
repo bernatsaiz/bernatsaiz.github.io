@@ -1,6 +1,6 @@
 ---
 slug: les-mentides-alimenten-lodi-verificat
-title: "Visualització de dades i disseny web per Verificat"
+title: "Visualització de dades i disseny web per a Verificat"
 date: 2024-11-19T23:49:51+01:00
 draft: false
 toc: false
