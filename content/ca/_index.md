@@ -69,7 +69,7 @@ Guió, gravació, edició i producció de vídeos per a Instagram i TikTok de Ve
 
 ![](/en/interactive-formats-for-the-barcelona-journal/images/0.png)
 
-Proposta de format interactiu per al contingut de notícies polítiques del Diari de Barcelona com a part del rellançament del mitjà. [Més informació.]({{< ref "formatos-interactivos" >}})
+Proposta de format interactiu per al contingut de notícies polítiques del Diari de Barcelona com a part del rellançament del mitjà. [Més informació.]({{< ref "formats-interactius-per-al-diari-de-barcelona" >}})
 
 <br><br><br>
 
